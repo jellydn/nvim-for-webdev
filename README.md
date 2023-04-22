@@ -24,8 +24,8 @@ bob use stable
 Make sure to remove or move your current `nvim` directory
 
 ```sh
-git clone https://github.com/jellydn/nvim-for-webdev .git ~/.config/nvim
-❯ rm -rf ~/.config/nvim/.git
+git clone https://github.com/jellydn/nvim-for-webdev.git ~/.config/nvim
+rm -rf ~/.config/nvim/.git
 ```
 
 ## Extra plugins from LazyVim
