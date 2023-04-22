@@ -8,11 +8,27 @@ Are you a web developer working with JS, Typescript, React, and Tailwind CSS? Ch
 This is a starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-Are you a web developer working with JS, Typescript, React, and Tailwind CSS? Check out the Neovim and LazyVim plugin starter template!
-
 Find detailed resources for each plugin in the accompanying readme. Start your web development journey with Neovim and LazyVim today!
 
-## Extra Plugins
+## Install Neovim
+
+The easy way is using [MordechaiHadad/bob: A version manager for neovim](https://github.com/MordechaiHadad/bob).
+
+```sh
+bob install stable
+bob use stable
+```
+
+## Install the config
+
+Make sure to remove or move your current `nvim` directory
+
+```sh
+git clone https://github.com/jellydn/nvim-for-webdev .git ~/.config/nvim
+❯ rm -rf ~/.config/nvim/.git
+```
+
+## Extra plugins from LazyVim
 
 Enable extra plugins for Typescript and Json
 
