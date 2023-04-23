@@ -30,25 +30,34 @@ rm -rf ~/.config/nvim/.git
 
 ## Extra plugins from LazyVim
 
-Enable extra plugins for Typescript and Json
-
+Add below plugins to [lazy.lua](./lua/config/lazy.lua)
 ```lua
+    { import = "lazyvim.plugins.extras.util.project" },
     { import = "lazyvim.plugins.extras.lang.typescript" },
     { import = "lazyvim.plugins.extras.lang.json" },
+    { import = "lazyvim.plugins.extras.linting.eslint" },
+    { import = "lazyvim.plugins.extras.formatting.prettier" },
 ```
+
 
 ## [Keymaps](./lua/config/keymaps.lua)
 
 - Add custom mappings for quickly exiting insert mode, closing buffers, opening the Alpha dashboard, displaying NullLs info, and toggling certain features of the Gitsigns and Todo Comments plugins.
 
-## Dashboard
+
+## UI
+### Dashboard
 
 ![dashboards](dashboard.png)
 
-- Add [project](./lua/plugins/1-project.lua) plugins for telescope
-- Custom [dashboard](./lua/plugins/2-dashboard.lua)
+- Custom [dashboard](./lua/plugins/1-dashboard.lua)
 
-## Setup [IDE](./lua/plugins/3-coding.lua)
+### Folding
+
+- Add [UFO folding and hover to preview](./lua/plugins/2-folding.lua)
+
+
+## Setup [IDE](./lua/plugins/1-coding.lua)
 
 This IDE setup includes several plugins for Neovim that provide features such as autocompletion, documentation generation, and formatting. The setup includes the Codeium plugin, which is a competitor to GitHub Copilot, as well as the Tabnine autocompletion plugin. Additionally, the setup includes the vim-jsdoc plugin for generating documentation, and plugins for sorting Tailwind CSS classes using Rustywind and null-ls.nvim.
 
