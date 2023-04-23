@@ -32,9 +32,12 @@ git clone https://github.com/jellydn/nvim-for-webdev.git ~/.config/nvim
 rm -rf ~/.config/nvim/.git
 ```
 
+You should restart Neovim to apply the changes after installing the starter template.
+
 ## Extra plugins from LazyVim
 
-Add below plugins to [lazy.lua](./lua/config/lazy.lua)
+Add below plugins to [lazy.lua](./lua/config/lazy.lua), more detail on https://www.lazyvim.org/plugins
+
 ```lua
     { import = "lazyvim.plugins.extras.util.project" },
     { import = "lazyvim.plugins.extras.lang.typescript" },
@@ -43,13 +46,12 @@ Add below plugins to [lazy.lua](./lua/config/lazy.lua)
     { import = "lazyvim.plugins.extras.formatting.prettier" },
 ```
 
-
 ## [Keymaps](./lua/config/keymaps.lua)
 
 - Add custom mappings for quickly exiting insert mode, closing buffers, opening the Alpha dashboard, displaying NullLs info, and toggling certain features of the Gitsigns and Todo Comments plugins.
 
-
 ## UI
+
 ### Dashboard
 
 ![dashboards](dashboard.png)
@@ -57,7 +59,6 @@ Add below plugins to [lazy.lua](./lua/config/lazy.lua)
 ### Folding
 
 - Add [UFO folding and hover to preview](./lua/plugins/2-folding.lua)
-
 
 ## Setup [IDE](./lua/plugins/1-coding.lua)
 
@@ -73,6 +74,18 @@ This IDE setup includes several plugins for Neovim that provide features such as
 - https://github.com/heavenshell/vim-jsdoc
 - https://github.com/avencera/rustywind
 
+## Author
+
+👤 **Huynh Duc Dung**
+
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dunghd)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dunghd)
+[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dunghd)
