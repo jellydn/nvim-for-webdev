@@ -28,7 +28,7 @@ return {
   {
     "hrsh7th/nvim-cmp",
     dependencies = {
-      -- Add TabNine support, make sure you ran :CmpTabnineHub Auth after installation.
+      -- Add TabNine support, make sure you ran :CmpTabnineHub after installation.
       {
         "tzachar/cmp-tabnine",
         build = "./install.sh",
