@@ -5,6 +5,7 @@ Are you a web developer working with JS, Typescript, React, and Tailwind CSS? Ch
 
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/hqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
+[![IT Man - Talk #35 - #Neovim IDE for Web Developer](https://i.ytimg.com/vi/3EbgMJ-RcWY/hqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
 
 ## Starter Template for Web Developers
 
