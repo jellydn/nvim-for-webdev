@@ -50,8 +50,6 @@ Add below plugins to [lazy.lua](./lua/config/lazy.lua)
 
 ![dashboards](dashboard.png)
 
-- Custom [dashboard](./lua/plugins/1-dashboard.lua)
-
 ### Folding
 
 - Add [UFO folding and hover to preview](./lua/plugins/2-folding.lua)
