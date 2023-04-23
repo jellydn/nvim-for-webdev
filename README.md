@@ -3,6 +3,9 @@
 Are you a web developer working with JS, Typescript, React, and Tailwind CSS? Check out the Neovim and LazyVim plugin starter template!
 </p>
 
+[![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/hqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
+
+
 ## Starter Template for Web Developers
 
 This is a starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
