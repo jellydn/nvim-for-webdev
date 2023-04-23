@@ -67,7 +67,7 @@ This IDE setup includes several plugins for Neovim that provide features such as
 - https://github.com/tzachar/tabnine-vim
 - https://github.com/codota/tabnine-nvim
 - https://github.com/heavenshell/vim-jsdoc
-- https://sgithub.com/avencera/rustywind
+- https://github.com/avencera/rustywind
 
 ## Show your support
 
