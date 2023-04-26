@@ -107,6 +107,17 @@ return {
       })
     end,
   },
+  -- Add Codeium status to lualine
+  {
+    "nvim-lualine/lualine.nvim",
+    opts = function(_, opts)
+      table.insert(opts.sections.lualine_x, 2, {
+        function()
+          return vim.fn["codeium#GetStatusString"]()
+        end,
+      })
+    end,
+  },
   -- Jsdoc
   {
     "heavenshell/vim-jsdoc",
