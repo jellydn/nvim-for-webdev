@@ -74,6 +74,10 @@ This IDE setup includes several plugins for Neovim that provide features such as
 - https://github.com/heavenshell/vim-jsdoc
 - https://github.com/avencera/rustywind
 
+### Tutorial
+- [LazyVim: Linting and Formatting](https://www.youtube.com/watch?v=a_ZpTPaSn38)
+- [LazyVim: Tailwind CSS Support](https://www.youtube.com/watch?v=_NiWhZeR-MY)
+
 ## Author
 
 👤 **Huynh Duc Dung**
