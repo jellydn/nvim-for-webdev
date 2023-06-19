@@ -79,6 +79,9 @@ This IDE setup includes several plugins for Neovim that provide features such as
 - [LazyVim: Linting and Formatting](https://www.youtube.com/watch?v=a_ZpTPaSn38)
 - [LazyVim: Tailwind CSS Support](https://www.youtube.com/watch?v=_NiWhZeR-MY)
 
+[![IT Man - Tip #38 - Learning Vim with VSCode - A Comprehensive Guide [Vietnamese]](https://i.ytimg.com/vi/yTTPRm0ACl0/hqdefault.jpg)](https://www.youtube.com/watch?v=yTTPRm0ACl0)
+
+
 ## Author
 
 👤 **Huynh Duc Dung**
