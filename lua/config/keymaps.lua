@@ -41,7 +41,7 @@ keymap("n", "<leader>;", function()
 end, opts)
 
 -- NullLs Info keymap
-if Util.has("null-ls.nvim") then
+if Util.has("none-ls.nvim") then
   keymap("n", "<leader>cn", "<cmd>NullLsInfo<CR>", opts)
 end
 
