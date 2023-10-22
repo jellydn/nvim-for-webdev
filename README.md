@@ -82,7 +82,7 @@ This IDE setup includes several plugins for Neovim that provide features such as
 - [How to use NVIM_APPNAME for Neovim Switcher](./Neovim_Switcher.md)
 
 [![IT Man - Tip #38 - Learning Vim with VSCode - A Comprehensive Guide [Vietnamese]](https://i.ytimg.com/vi/yTTPRm0ACl0/hqdefault.jpg)](https://www.youtube.com/watch?v=yTTPRm0ACl0)
-
+[![IT Man - Eliminate Typos in Your Code with Neovim [Vietnamese]](https://i.ytimg.com/vi/3IwMd77_P8E/hqdefault.jpg)](https://www.youtube.com/watch?v=3IwMd77_P8E)
 
 ## Author
 
