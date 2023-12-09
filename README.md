@@ -32,6 +32,14 @@ git clone https://github.com/jellydn/nvim-for-webdev.git ~/.config/nvim
 rm -rf ~/.config/nvim/.git
 ```
 
+### Usage with NVIM_APPNAME
+
+```sh
+git clone https://github.com/jellydn/nvim-for-webdev.git ~/.config/nvim_webdev
+alias web_nvim="NVIM_APPNAME=nvim_webdev nvim"
+web_nvim
+```
+
 You should restart Neovim to apply the changes after installing the starter template.
 
 ## Extra plugins from LazyVim
