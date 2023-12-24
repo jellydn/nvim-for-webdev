@@ -7,6 +7,8 @@ Are you a web developer working with JS, Typescript, React, and Tailwind CSS? Ch
 
 [![IT Man - Talk #35 - #Neovim IDE for Web Developer](https://i.ytimg.com/vi/3EbgMJ-RcWY/hqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
 
+[![IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]](https://i.ytimg.com/vi/By_CCai62JE/hqdefault.jpg)](https://www.youtube.com/watch?v=By_CCai62JE)
+
 ## Starter Template for Web Developers
 
 This is a starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
